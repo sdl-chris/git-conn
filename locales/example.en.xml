@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="welcome">Hooray, you're here! The day just got better - enjoy the following tips!</string>
+  <string name="text_segment">A section of text like this is known as a text segment. Start rockin' your translations now!</string>
+  <string name="down_shortcut">Arriba, Arriba! Andale, Andale! Be fast as Speedy Gonzales. Just hit the DOWN key to save and go to the next text segment, once you're done.</string>
+  <string name="statuses">Houston, we have no problem. Keep track of the progress of your translations by statuses at any time.</string>
+  <string name="status_shortcut">You can change the status by using one of the shortcut keys: e.g. CTRL+ENTER = Translated.\n You can see other shortcuts by clicking the Sign Off button</string>
+  <string name="placeholder_rwschecks">We just like to see you happy, that's why RWS checks automatically check translations for predetermined criteria.\nAmong other checks RWS verifies if %s used in the original text are also present in translated texts.</string>
+  <!-- Add comments in a file (depends on file format) to provide translators with more information. -->
+  <string comment="this is a comment, inserted from an attribute" name="love">Made with ❤</string>
+</resources>
+
+
+
